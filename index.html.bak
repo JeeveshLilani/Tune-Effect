@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="index.css">
+    <title>Music for Life!!!</title>
+  </head>
+  <body>
+
+<!-- Last contact info with contact info, email, etc -->
+    <br>
+    <br>
+    <br>
+    <br>
+
+    <hr Align="center" width="70%" color="black">
+
+    <div class="developer">
+      Jeevesh Lilani <br>
+      Student
+    </div>
+	
+	<a href="https://youtube.com" > Email </a>
